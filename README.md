@@ -44,7 +44,6 @@ spotify-dashboard/
 │   └── spotify_cleaned.csv       # Clean dataset used in dashboard
 ├── images/
 │   └── dashboard_preview.png     # Screenshot of the dashboard
-├── Spotify_Dashboard_Design_Plan.pdf  # Design wireframe + KPI layout
 ├── README.md                     # You're reading it!
 ```
 
